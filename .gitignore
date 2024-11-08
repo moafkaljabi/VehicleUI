@@ -1,0 +1,26 @@
+# Qt Creator specific files
+.idea/
+.vscode/
+*.pro.user
+*.qbs.user
+*.pro.user.*
+*.qbs.user.*
+*.pro.user.*
+*.creator.user
+*.creator
+*.creator.user.*
+.qmake.stash
+.qmake.cache
+
+# Build directories
+build-*/
+
+# General files
+*.o
+*.obj
+*.so
+*.a
+*.lib
+*.dll
+*.exe
+
