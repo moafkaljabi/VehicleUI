@@ -10,12 +10,8 @@ Vehicle UI is a user interface project built with Qt, designed to control and mo
 - **Cross-Platform**: Designed with Qt to run on multiple platforms seamlessly.
 
 ## Technologies Used
-- **Qt / Qt Creator**: For designing and implementing the UI.
+- **Qt QML / Qt Creator**: For designing and implementing the UI.
 - **C++**: Core programming language for application logic and backend integration.
-- **Networking**: Uses HTTP/HTTPS for initial connection, and WebSockets for live data streaming.
-- **MySQL**: (If applicable) Stores user preferences and historical vehicle data.
-- **MQTT**: Communication protocol for interaction with IoT devices.
-
 ## Installation and Setup
 1. **Clone the Repository**:
     ```bash
