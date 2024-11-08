@@ -1,4 +1,3 @@
-# Project Title
 # Vehicle UI
 
 ## Project Overview
