@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/VehicleUI">
+    <file alias="qmldir">/home/moafk/qt/projects/VehicleUI/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/VehicleUI/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/VehicleUI/">
+    <file alias="Main.qml">/home/moafk/qt/projects/VehicleUI/Main.qml</file>
+    <file alias="ui/BottomBar/BottomBar.qml">/home/moafk/qt/projects/VehicleUI/ui/BottomBar/BottomBar.qml</file>
+    <file alias="ui/RightScreen/RightScreen.qml">/home/moafk/qt/projects/VehicleUI/ui/RightScreen/RightScreen.qml</file>
+    <file alias="ui/LeftScreen/LeftScreen.qml">/home/moafk/qt/projects/VehicleUI/ui/LeftScreen/LeftScreen.qml</file>
+    <file alias="Resources/qml.qrc">/home/moafk/qt/projects/VehicleUI/Resources/qml.qrc</file>
+  </qresource>
+</RCC>
+

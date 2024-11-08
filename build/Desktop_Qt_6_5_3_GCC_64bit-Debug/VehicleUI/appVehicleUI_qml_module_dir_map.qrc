@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/VehicleUI">/home/moafk/qt/projects/VehicleUI/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/VehicleUI</file>
+
+  </qresource>
+</RCC>
